@@ -1,0 +1,3 @@
+# Trap 09.Md
+
+> Prompt content goes here...
